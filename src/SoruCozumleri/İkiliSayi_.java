@@ -38,4 +38,4 @@ public class İkiliSayi_ {
     }
 
 
-}
+
