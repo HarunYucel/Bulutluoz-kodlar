@@ -27,7 +27,7 @@ public class İkiliSayi_ {
 
 
 
-            }
+    }
 
 
 

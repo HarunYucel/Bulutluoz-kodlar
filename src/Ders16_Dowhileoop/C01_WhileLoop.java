@@ -1,6 +1,6 @@
 package Ders16_Dowhileoop;
 
-public class DoWhile2_ {
+public class C01_WhileLoop {
     public static void main(String[] args) {
         //10 11 12 sayilarini toplayan bir do wlile loop oluşturalım
 

@@ -1,6 +1,6 @@
 package Ders16_Dowhileoop;
 
-public class Dowhileders {
+public class C04_DoWhile {
     public static void main(String[] args) {
 
         ///10 11 12 sayılarını toplayan bir while loop oluşturalım

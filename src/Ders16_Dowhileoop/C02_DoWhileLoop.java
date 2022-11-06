@@ -1,8 +1,6 @@
 package Ders16_Dowhileoop;
 
-import java.util.Scanner;
-
-public class Dowhile_4 {
+public class C02_DoWhileLoop {
     public static void main(String[] args) {
         // kullanıcıdan bir pozitif sayı alın
         // sayının tam kare olup olmadığını kontrol edin

@@ -2,7 +2,7 @@ package Ders16_Dowhileoop;
 
 import java.util.Scanner;
 
-public class Dowhile_Loop3 {
+public class C03_SifreKontrolu {
     public static void main(String[] args) {
 
         /* kullanıcıdan bir şifre girmesini isteyin
