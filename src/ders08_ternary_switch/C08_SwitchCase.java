@@ -2,7 +2,8 @@ package ders08_ternary_switch;
 
 public class C08_SwitchCase {public static void main(String[] args) {
     // Soru 6- Kullanicidan ay numarasini alip mevsimi yazdirin.
-    int ayNo= 8;
+    int ayNo= 3
+            ;
     switch (ayNo){
         case 12 :
         case 1  :

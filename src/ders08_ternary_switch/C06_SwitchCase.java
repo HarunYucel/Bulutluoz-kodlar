@@ -3,7 +3,7 @@ package ders08_ternary_switch;
 public class C06_SwitchCase { public static void main(String[] args) {
     // Kullanicinin girdigi gun numarasinin
     // gun ismini yazdirin
-    int gunNo=1;
+    int gunNo=6;
         /*
         if (gunNo==1){
             System.out.println("Pazartesi");
