@@ -8,7 +8,7 @@ public class C03_equalsIgnoreCase { public static void main(String[] args) {
     System.out.println(str1.equals(str3)); // false
     System.out.println(str1.equalsIgnoreCase(str2)); // true
     System.out.println(str1.equalsIgnoreCase(str3)); // true
-    System.out.println(str1.equalsIgnoreCase("Ali Can")); // false
+    System.out.println(str1.equalsIgnoreCase("Ali can")); // false
         /*
          equalsIgnoreCase  ayni metnin buyuk kucuk harf kullanilarak olusturulan
          farkli yazimlarini birbirine esit olarak kabul eder

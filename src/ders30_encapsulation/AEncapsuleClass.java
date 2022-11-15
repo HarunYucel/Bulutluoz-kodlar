@@ -1,6 +1,7 @@
 package ders30_encapsulation;
 
-public class AEncapsuleClass {private String hastaneIsmi="Yildiz Hastanesi";
+public class AEncapsuleClass {
+    private String hastaneIsmi="Yildiz Hastanesi";
     public void setHastaUcreti(int hastaUcreti) {
         this.hastaUcreti = hastaUcreti;
     }
