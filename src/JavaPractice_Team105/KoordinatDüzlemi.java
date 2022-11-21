@@ -25,4 +25,4 @@ public class KoordinatDüzlemi {
         else System.out.println("Girdiginiz nokta Orijin'dir.");
 
 
-}
+}}
