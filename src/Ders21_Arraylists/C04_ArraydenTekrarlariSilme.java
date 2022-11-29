@@ -37,6 +37,8 @@ public class C04_ArraydenTekrarlariSilme {
             arr[i]=tekrarsizListe.get(i);
 
             System.out.println("Array'in tekrarsiz hali : "+ Arrays.toString(arr));
+
+
             
         }
 

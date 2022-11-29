@@ -17,7 +17,7 @@ public class C05_set {
             sayilar.add(arr[i]);
 
     }
-
+        System.out.println(sayilar);
         // Java'da set() u update icin kullanir
         // add() ile set() farklidir
 

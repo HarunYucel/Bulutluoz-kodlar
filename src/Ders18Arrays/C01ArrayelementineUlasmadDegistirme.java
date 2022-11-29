@@ -30,16 +30,6 @@ public class C01ArrayelementineUlasmadDegistirme {
 
 
 
-
-
-
-
-
-
-
-
-
-
         }
 
 

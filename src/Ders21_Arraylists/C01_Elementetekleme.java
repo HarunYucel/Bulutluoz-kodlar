@@ -20,7 +20,6 @@ public class C01_Elementetekleme {
         sayilar.add(0,44);
         System.out.println(sayilar);
 
-
         // sayilar listesinin sonuna eklenecekListeyi ekleyin
         List<Integer>Eklenecekliste= new ArrayList<>();
 
